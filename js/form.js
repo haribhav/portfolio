@@ -3,8 +3,7 @@
  * Sends messages using Formspree (works on GitHub Pages)
  */
 
-// ✅ PUT YOUR FORMSPREE ENDPOINT HERE
-// Example: https://formspree.io/f/abcdwxyz
+
 const FORMSPREE_URL = "https://formspree.io/f/xaqqyyqo"
 
 /**
