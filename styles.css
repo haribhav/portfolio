@@ -443,6 +443,17 @@ section {
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
 }
 
+/* Project 4 – Dark Blue / AI */
+.project-card:nth-child(4) .project-image {
+    background: linear-gradient(135deg, #1e3a8a 0%, #0ea5e9 100%);
+}
+
+/* Project 5 – Dark Neutral / Backend */
+.project-card:nth-child(5) .project-image {
+    background: linear-gradient(135deg, #020617 0%, #334155 100%);
+}
+
+
 .project-overlay {
     position: absolute;
     top: 0;
